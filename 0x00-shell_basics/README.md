@@ -1,2 +1,1 @@
-#!\bin\bash
-absolute path of current working directory
+Where am i
