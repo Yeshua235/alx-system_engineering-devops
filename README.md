@@ -1,1 +1,2 @@
-alx-system_engineering-devops readme
+#!\bin\bash
+absolute path of current working directory
