@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '1~2p'
+head -n $(($(cat | wc -l) / 2)) | tail -n +1
